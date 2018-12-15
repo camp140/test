@@ -1,2 +1,4 @@
 sdfsd
 new line
+
+new line for newBranch
